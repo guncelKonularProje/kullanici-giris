@@ -1,6 +1,7 @@
 # kullanici-giris
 ## Bahadır Yazıcı
 Kullanici kayit ol  ve giris backend kismi yapilmistir. ✔️
+
 Proje çalıştırıldıktan sonra web kısmında şunları aratırsanız login ve kayıt olma sitelerini görebilirsiniz.
  * İdentity/account/login
 
