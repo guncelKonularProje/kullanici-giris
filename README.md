@@ -2,8 +2,9 @@
 ## Bahadır Yazıcı
 Kullanici kayit ol  ve giris backend kismi yapilmistir. ✔️
 
-Proje çalıştırıldıktan sonra web kısmında şunları aratırsanız login ve kayıt olma sitelerini görebilirsiniz.
- * İdentity/account/login
+Proje çalıştırıldıktan sonra Giris kayit olma islemini alir ve Microsoft SQL databaseinde bilgileri saklar.
+
+Gorev olarak KAyit olma ekranin Backend kismi basariyla tamamlanmistir. ✔️
 
 siteye giriş ve kayıt olma kısmını burada görebilirsiniz.
 
